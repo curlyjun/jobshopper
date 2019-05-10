@@ -1,6 +1,6 @@
 # JobShopper
 
-![잡쇼퍼 이미지](images/jobshopperLogo.jpg)
+![](images/headerlogo.jpg)
 
 ## 기업협업 팀 프로젝트
 
@@ -32,3 +32,11 @@
 
 - 1:1 문의 & 학생 관리 관련 RESTfull API 작성.
 - Mongoose를 사용해 MongoDB의 데이터를 조합하는 로직 구현.
+
+## 1:1 문의 실행 화면
+
+![](images/question.gif)
+
+## 학교 관리 실행 화면
+
+![](images/school.gif)
