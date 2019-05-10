@@ -1,6 +1,6 @@
 # JobShopper
 
-![](images/headerlogo.jpg)
+![](Images/headerlogo.jpg)
 
 ## 기업협업 팀 프로젝트
 
@@ -35,8 +35,8 @@
 
 ## 1:1 문의 실행 화면
 
-![](images/question.gif)
+![](Images/question.gif)
 
 ## 학교 관리 실행 화면
 
-![](images/school.gif)
+![](Images/school.gif)
